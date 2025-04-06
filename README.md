@@ -21,7 +21,7 @@
 **Установка:**
 1. Скачайте/клонируйте репозиторий:
     ```bash
-   git clone https://github.com/Ni7ker/yd_techtask.git
+   git clone https://github.com/Ni7ker/yandex_disk1.git
 
 2. Перейдите в папку проекта:
     ```bash
